@@ -6,5 +6,7 @@ Creating a clone website using HTML, CSS and JAVASCRIPT
 Created using :
 
 HTML 5
+
 CSS 3
+
 Advance JavaScript (ES6)
